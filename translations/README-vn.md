@@ -47,11 +47,11 @@ Thêm vào đó, nếu bạn muốn trở thành một kỹ sư hệ thống (Sy
 
 ## Mục lục
 
-- [Giới thiệu?](#giới-thiệu)
-- [Vì sao tôi cần tài liệu này?](#vì-sao-tôi-cần-tài-liệu-này)
-- [Sử dụng tài liệu này như thế nào?](#sử-dụng-tài-liệu-này-như-thế-nào)
-- [Đừng nghĩ rằng bạn không đủ thông minh](#đừng-nghĩ-rằng-bạn-không-đủ-thông-minh)
-- [Về nguồn video](#về-nguồn-video)
+- [x] [Giới thiệu?](#giới-thiệu)
+- [x] [Vì sao tôi cần tài liệu này?](#vì-sao-tôi-cần-tài-liệu-này)
+- [x] [Sử dụng tài liệu này như thế nào?](#sử-dụng-tài-liệu-này-như-thế-nào)
+- [x][Đừng nghĩ rằng bạn không đủ thông minh](#đừng-nghĩ-rằng-bạn-không-đủ-thông-minh)
+- [x][Về nguồn video](#về-nguồn-video)
 - [Quy trình phỏng vấn & các bước chuẩn bị tổng quát](#quy-trình-phỏng-vấn--các-bước-chuẩn-bị-tổng-quát)
 - [Chọn ngôn ngữ lập trình cho cuộc phỏng vấn](#chọn-ngôn-ngữ-lập-trình-cho-cuộc-phỏng-vấn)
 - [Danh mục sách](#danh-mục-sách)
@@ -229,11 +229,11 @@ Lynda.com thì không miễn phí.
 
 ## Quy trình phỏng vấn & các bước chuẩn bị tổng quát
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [4 bước đến Google dù khồng có bẳng cấp](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
-- [ ] [Whiteboarding (Giải toán lập trình trên bảng trắng)](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Google nghĩ thế nào về Tuyển dụng, Quản lý và Văn hóa](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
-- [ ] [Whiteboarding hiệu quả trong khi phỏng vấn kỹ năng lập trình](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [4 bước đến Google dù khồng có bẳng cấp](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
+- [x] [Whiteboarding (Giải toán lập trình trên bảng trắng)](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [x] [Google nghĩ thế nào về Tuyển dụng, Quản lý và Văn hóa](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
+- [x] [Whiteboarding hiệu quả trong khi phỏng vấn kỹ năng lập trình](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
@@ -263,7 +263,7 @@ Xem thêm về các sự lựa chọn:
 - http://blog.codingforinterviews.com/best-programming-language-jobs/
 - https://www.quora.com/What-is-the-best-language-to-program-in-for-an-in-person-Google-interview
 
-[Xem tài liệu về các ngôn ngữ ở đây](programming-language-resources.md)
+[Xem tài liệu về các ngôn ngữ ở đây](../programming-language-resources.md)
 
 Bạn sẽ thấy vài tài liệu về C, C++ và Python bên dưới, vì tôi đang học chúng. Ngoài ra còn có một vài đầu sách nữa, xem ở cuối.
 
