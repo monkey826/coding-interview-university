@@ -263,7 +263,7 @@ Xem thêm về các sự lựa chọn:
 - http://blog.codingforinterviews.com/best-programming-language-jobs/
 - https://www.quora.com/What-is-the-best-language-to-program-in-for-an-in-person-Google-interview
 
-[Xem tài liệu về các ngôn ngữ ở đây](programming-language-resources.md)
+[Xem tài liệu về các ngôn ngữ ở đây](../programming-language-resources.md)
 
 Bạn sẽ thấy vài tài liệu về C, C++ và Python bên dưới, vì tôi đang học chúng. Ngoài ra còn có một vài đầu sách nữa, xem ở cuối.
 
